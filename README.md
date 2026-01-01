@@ -8,6 +8,9 @@ A robust, terminal-based movie streamer inspired by `ani-cli`. It scrapes stream
 - 🔁 **Auto-Retry:** Automatically loops back if sources fail.
 - 🍿 **No Ads:** Plays directly in MPV, skipping website ads and popups.
 
+⚠️ Important Note regarding Scans
+Movie-CLI is not 100% guaranteed. Streaming sites frequently change their code, anti-bot protections, or server names.
+
 ## Requirements
 - Python 3.8+
 - MPV Player (`sudo apt install mpv` or `brew install mpv`)
@@ -16,7 +19,7 @@ A robust, terminal-based movie streamer inspired by `ani-cli`. It scrapes stream
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/BossCrayon/movie-cli.git
+git clone [https://github.com/BossCrayon/movie-cli.git](https://github.com/BossCrayon/movie-cli.git)
 cd movie-cli
 
 # 2. Install dependencies
