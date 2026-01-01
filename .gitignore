@@ -1,0 +1,15 @@
+# Ignore the heavy browser profile
+browser_data/
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore temp files generated during use
+*.m3u8
+*.png
+*.log
