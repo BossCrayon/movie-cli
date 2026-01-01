@@ -16,7 +16,7 @@ A robust, terminal-based movie streamer inspired by `ani-cli`. It scrapes stream
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/YOUR_USERNAME/movie-cli.git](https://github.com/YOUR_USERNAME/movie-cli.git)
+git clone https://github.com/BossCrayon/movie-cli.git
 cd movie-cli
 
 # 2. Install dependencies
