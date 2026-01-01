@@ -9,7 +9,7 @@ A robust, terminal-based movie streamer inspired by `ani-cli`. It scrapes stream
 - 🍿 **No Ads:** Plays directly in MPV, skipping website ads and popups.
 
 ⚠️ Important Note regarding Scans
-Movie-CLI is not 100% guaranteed. Streaming sites frequently change their code, anti-bot protections, or server names.
+Movie-CLI is not 100% guaranteed. if all is failed, try to run again.
 
 ## Requirements
 - Python 3.8+
